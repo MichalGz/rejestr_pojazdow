@@ -1,0 +1,18 @@
+﻿  Autobus.cpp
+  Ciezarowy.cpp
+  main.cpp
+  Model.cpp
+  Modele.cpp
+  Obsluga.cpp
+  Osobowy.cpp
+  Pojazd.cpp
+  Pojazdy.cpp
+  Wlasciciel.cpp
+C:\Users\mgrze\Downloads\Rejestr_2\Rejestr\Wlasciciel.cpp(25,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mgrze\Downloads\Rejestr_2\Rejestr\Wlasciciel.cpp(46,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Wlasciciele.cpp
+  Generowanie kodu...
+C:\Users\mgrze\Downloads\Rejestr_2\Rejestr\Pojazdy.cpp(122): warning C4715: "Pojazdy::zapis”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\mgrze\Downloads\Rejestr_2\Rejestr\Pojazdy.cpp(150): warning C4715: "Pojazdy::usun”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\mgrze\Downloads\Rejestr_2\Rejestr\Obsluga.cpp(158): warning C4715: "Obsluga::addVehicles”: niewszystkie ścieżki kodu zwracają wartość
+  Rejestr pojazdow koncowy.vcxproj -> C:\Users\mgrze\source\repos\Rejestr pojazdow koncowy\Debug\Rejestr pojazdow koncowy.exe
